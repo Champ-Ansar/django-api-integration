@@ -1,0 +1,5 @@
+# For credentials
+.env
+
+# Dependencies
+env
